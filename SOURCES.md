@@ -15,3 +15,9 @@ Pesquisa conferida em 17 de novembro de 2026 para a Igreja Evangélica Cristã C
 
 - Culto de sexta às 19h30. A bio do Instagram e o Linktree publicam agendas diferentes. Domingo e quarta coincidem.
 - Aplicativo para iPhone. Um [catálogo de terceiros](https://chamados-para-adorar.appstor.io/) lista uma ficha com o nome da igreja, mas a busca oficial da Apple no Brasil por esse nome não retornou o aplicativo na data da pesquisa. Use um link oficial confirmado quando estiver disponível.
+
+## Imagens
+
+- `culto.webp` e `pregacao.webp` são quadros recortados da [gravação da pregação](https://www.youtube.com/watch?v=4FbRQ9cXeLw), em 12:46 e 21:59.
+- `chama.webp` vem da foto de perfil do [Instagram oficial](https://www.instagram.com/igrejachamadosparaadorar/).
+- `app.webp` é o ícone da [ficha do aplicativo](https://play.google.com/store/apps/details?id=br.com.inchurch.cristachamadosadorar).
