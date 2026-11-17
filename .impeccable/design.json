@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-17T15:39:42Z",
+  "title": "Design System: Chamados para Adorar",
+  "extensions": {
+    "colorMeta": {
+      "ultramarine": {
+        "role": "primary",
+        "displayName": "Ultramarino",
+        "tonalRamp": [
+          "oklch(15% 0.148 265.5)",
+          "oklch(26% 0.148 265.5)",
+          "oklch(38% 0.148 265.5)",
+          "oklch(49% 0.148 265.5)",
+          "oklch(60% 0.148 265.5)",
+          "oklch(72% 0.148 265.5)",
+          "oklch(84% 0.148 265.5)",
+          "oklch(95% 0.148 265.5)"
+        ]
+      },
+      "sky-panel": {
+        "role": "secondary",
+        "displayName": "Azul de sinalização",
+        "tonalRamp": [
+          "oklch(15% 0.035 266.0)",
+          "oklch(26% 0.035 266.0)",
+          "oklch(38% 0.035 266.0)",
+          "oklch(49% 0.035 266.0)",
+          "oklch(60% 0.035 266.0)",
+          "oklch(72% 0.035 266.0)",
+          "oklch(84% 0.035 266.0)",
+          "oklch(95% 0.035 266.0)"
+        ]
+      },
+      "rose-seam": {
+        "role": "tertiary",
+        "displayName": "Rosa da junta",
+        "tonalRamp": [
+          "oklch(15% 0.198 11.4)",
+          "oklch(26% 0.198 11.4)",
+          "oklch(38% 0.198 11.4)",
+          "oklch(49% 0.198 11.4)",
+          "oklch(60% 0.198 11.4)",
+          "oklch(72% 0.198 11.4)",
+          "oklch(84% 0.198 11.4)",
+          "oklch(95% 0.198 11.4)"
+        ]
+      },
+      "wine-hover": {
+        "role": "tertiary",
+        "displayName": "Vinho de interação",
+        "tonalRamp": [
+          "oklch(15% 0.154 8.5)",
+          "oklch(26% 0.154 8.5)",
+          "oklch(38% 0.154 8.5)",
+          "oklch(49% 0.154 8.5)",
+          "oklch(60% 0.154 8.5)",
+          "oklch(72% 0.154 8.5)",
+          "oklch(84% 0.154 8.5)",
+          "oklch(95% 0.154 8.5)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "tonalRamp": [
+          "oklch(15% 0.075 270.6)",
+          "oklch(26% 0.075 270.6)",
+          "oklch(38% 0.075 270.6)",
+          "oklch(49% 0.075 270.6)",
+          "oklch(60% 0.075 270.6)",
+          "oklch(72% 0.075 270.6)",
+          "oklch(84% 0.075 270.6)",
+          "oklch(95% 0.075 270.6)"
+        ]
+      },
+      "warm-paper": {
+        "role": "neutral",
+        "displayName": "Papel quente",
+        "tonalRamp": [
+          "oklch(15% 0.004 91.4)",
+          "oklch(26% 0.004 91.4)",
+          "oklch(38% 0.004 91.4)",
+          "oklch(49% 0.004 91.4)",
+          "oklch(60% 0.004 91.4)",
+          "oklch(72% 0.004 91.4)",
+          "oklch(84% 0.004 91.4)",
+          "oklch(95% 0.004 91.4)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Branco",
+        "tonalRamp": [
+          "oklch(15% 0.000 0.0)",
+          "oklch(26% 0.000 0.0)",
+          "oklch(38% 0.000 0.0)",
+          "oklch(49% 0.000 0.0)",
+          "oklch(60% 0.000 0.0)",
+          "oklch(72% 0.000 0.0)",
+          "oklch(84% 0.000 0.0)",
+          "oklch(95% 0.000 0.0)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Filete azul",
+        "tonalRamp": [
+          "oklch(15% 0.053 268.0)",
+          "oklch(26% 0.053 268.0)",
+          "oklch(38% 0.053 268.0)",
+          "oklch(49% 0.053 268.0)",
+          "oklch(60% 0.053 268.0)",
+          "oklch(72% 0.053 268.0)",
+          "oklch(84% 0.053 268.0)",
+          "oklch(95% 0.053 268.0)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Abertura",
+        "purpose": "Título principal."
+      },
+      "display-tablet": {
+        "displayName": "Abertura intermediária",
+        "purpose": "Título principal até 54rem."
+      },
+      "display-mobile": {
+        "displayName": "Abertura empilhada",
+        "purpose": "Título principal até 42rem."
+      },
+      "headline": {
+        "displayName": "Título de seção",
+        "purpose": "Hierarquia principal após a abertura."
+      },
+      "title": {
+        "displayName": "Título interno",
+        "purpose": "Título da mensagem em destaque."
+      },
+      "body": {
+        "displayName": "Corpo",
+        "purpose": "Texto corrido."
+      },
+      "intro": {
+        "displayName": "Introdução",
+        "purpose": "Texto de convite no painel da abertura."
+      },
+      "nav-label": {
+        "displayName": "Navegação",
+        "purpose": "Rótulos do cabeçalho e do rodapé."
+      },
+      "sign-label": {
+        "displayName": "Rótulo da placa",
+        "purpose": "Rótulo de ação nos botões em forma de placa."
+      },
+      "hours": {
+        "displayName": "Horários",
+        "purpose": "Números tabulares no quadro de cultos."
+      }
+    },
+    "motion": [
+      {
+        "name": "sign-background",
+        "value": ".18s ease",
+        "purpose": "Mudança do fundo da placa no hover."
+      },
+      {
+        "name": "arrow-translation",
+        "value": ".22s cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "Deslocamento curto da seta no hover."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "intermediate",
+        "value": "54rem"
+      },
+      {
+        "name": "stacked",
+        "value": "42rem"
+      },
+      {
+        "name": "narrow",
+        "value": "21rem"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botão em forma de placa",
+      "kind": "button",
+      "refersTo": "sign-button",
+      "description": "Ação principal sobre o ultramarino.",
+      "html": "<div class=\"ds-sign-backdrop\"><a href=\"#visite\" class=\"ds-sign-button\">Planeje sua visita <svg class=\"ds-arrow\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div>",
+      "css": ".ds-sign-backdrop { background: var(--blue, #081d73); padding: 1rem; } .ds-sign-button { display: inline-flex; position: relative; isolation: isolate; align-items: center; gap: 1.1rem; min-height: 3.6rem; box-sizing: border-box; padding: .55rem 2.3rem .55rem 1.5rem; color: var(--blue, #081d73); font: 700 clamp(1.25rem, 2vw, 1.85rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); text-decoration: none; } .ds-sign-button::before { content: \"\"; position: absolute; inset: 0; z-index: -1; background: var(--white, #fff); clip-path: polygon(0 0, calc(100% - 1rem) 0, 100% 50%, calc(100% - 1rem) 100%, 0 100%); transition: background-color .18s ease; } .ds-sign-button:hover::before { background-color: var(--light-blue, #dce7ff); } .ds-sign-button:focus-visible { outline: 3px solid var(--light-blue, #dce7ff); outline-offset: 5px; } @media (prefers-reduced-motion: reduce) { .ds-sign-button::before { transition-duration: 0s; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+    },
+    {
+      "name": "Link de texto",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "Ação de apoio sublinhada, com seta quando o destino é externo.",
+      "html": "<a href=\"#mensagens\" class=\"ds-text-link\">Canal da igreja no YouTube <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a>",
+      "css": ".ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--blue, #081d73); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: #8c143c; } .ds-text-link:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+    },
+    {
+      "name": "Navegação principal",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Acesso às seções e indicação do Instagram como destino externo.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navegação principal\"><a href=\"#visite\">Visite</a><a href=\"#mensagens\">Mensagens</a><a href=\"#aplicativo\">Aplicativo</a><a class=\"ds-social\" href=\"#instagram\">Instagram <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></nav>",
+      "css": ".ds-nav { display: flex; align-items: center; gap: clamp(1rem, 2.6vw, 2.75rem); padding-inline: .5rem; background: var(--white, #fff); color: var(--ink, #10183f); font-family: var(--body, Barlow, system-ui, sans-serif); } .ds-nav a { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .45rem; color: inherit; font-size: 1.02rem; font-weight: 700; text-decoration: none; } .ds-nav a:hover { text-decoration: underline; text-underline-offset: .23em; } .ds-nav a:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; } .ds-nav .ds-social { color: var(--blue, #081d73); } @media (max-width: 42rem) { .ds-nav { justify-content: space-between; gap: .4rem; } .ds-nav a { font-size: .93rem; } } @media (max-width: 21rem) { .ds-social .ds-arrow { display: none; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+    },
+    {
+      "name": "Placa de endereço",
+      "kind": "custom",
+      "refersTo": "arrival-sign",
+      "description": "Une a chamada de chegada, o endereço e o link do mapa.",
+      "html": "<div class=\"ds-arrival-wrap\"><div class=\"ds-arrival\"><strong>Como chegar</strong><p>Rua Egas dos Santos, 2<span>Jardim São Paulo · Embu-Guaçu, SP</span></p><a href=\"#visite\" class=\"ds-text-link\">Abrir no mapa <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div></div>",
+      "css": ".ds-arrival-wrap { container-type: inline-size; } .ds-arrival { display: grid; grid-template-columns: minmax(9rem, .7fr) minmax(15rem, 1.75fr) minmax(10rem, .75fr); align-items: center; gap: clamp(1rem, 3vw, 2.4rem); min-height: 5.75rem; box-sizing: border-box; padding: 1rem clamp(1.15rem, 4vw, 3.2rem); background: var(--light-blue, #dce7ff); color: var(--ink, #10183f); clip-path: polygon(0 0, calc(100% - 1.25rem) 0, 100% 50%, calc(100% - 1.25rem) 100%, 0 100%); } .ds-arrival strong { font: 800 clamp(1.55rem, 2.8vw, 2.55rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); } .ds-arrival p { display: grid; margin: 0; padding-inline: clamp(1rem, 2.5vw, 2.4rem); border-inline: 1px solid var(--line, #a7b5d8); font: 700 clamp(1.08rem, 1.6vw, 1.38rem)/1.25 var(--body, Barlow, system-ui, sans-serif); } .ds-arrival p span { font-size: .83em; font-weight: 600; } .ds-arrival .ds-text-link { justify-self: start; } @container (max-width: 42rem) { .ds-arrival { grid-template-columns: 1fr auto; gap: .15rem 1rem; clip-path: none; padding: .9rem var(--side, clamp(1.25rem, 6.5vw, 7rem)); } .ds-arrival strong { grid-column: 1 / -1; font-size: 1.65rem; } .ds-arrival p { padding: 0; border: 0; font-size: 1rem; } .ds-arrival .ds-text-link { white-space: nowrap; } } @container (max-width: 21rem) { .ds-arrival { grid-template-columns: 1fr; } }  .ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--blue, #081d73); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: #8c143c; } .ds-text-link:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+    },
+    {
+      "name": "Quadro de cultos",
+      "kind": "custom",
+      "refersTo": "schedule-hours",
+      "description": "Dia e horário alinhados nas extremidades de cada linha.",
+      "html": "<div class=\"ds-schedule\"><h3>Horários dos cultos</h3><dl><div><dt>Domingo</dt><dd><time datetime=\"18:00\">18h</time></dd></div><div><dt>Quarta-feira</dt><dd><time datetime=\"19:30\">19h30</time></dd></div></dl></div>",
+      "css": ".ds-schedule { border-top: 3px solid var(--blue, #081d73); padding-top: .7rem; color: var(--ink, #10183f); } .ds-schedule h3 { margin: 0 0 .6rem; font: 700 1.5rem/.99 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); letter-spacing: -.025em; } .ds-schedule dl { margin: 0; } .ds-schedule dl > div { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .65rem 0 .8rem; border-bottom: 1px solid var(--line, #a7b5d8); } .ds-schedule dt { font: 600 clamp(1.15rem, 2vw, 1.65rem) var(--body, Barlow, system-ui, sans-serif); } .ds-schedule dd { margin: 0; font: 800 clamp(2.45rem, 4.8vw, 4rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); color: var(--blue, #081d73); font-variant-numeric: tabular-nums; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Placa de chegada",
+    "overview": "A página usa a linguagem de uma placa para acolher quem chega: texto grande, setas com destinos claros e faixas de cor que organizam a leitura. A fotografia da própria igreja dá rosto ao convite.\n\nO ultramarino emoldura os blocos de maior destaque. O papel quente, o branco e os filetes finos deixam as informações práticas respirarem. A diagonal rosa une cor e fotografia.",
+    "keyCharacteristics": [
+      "Títulos condensados, fortes e curtos.",
+      "Painéis planos e recortes com função de sinalização.",
+      "Fotografia da própria igreja com origem registrada em SOURCES.md."
+    ],
+    "rules": [],
+    "dos": [
+      "Do manter o rótulo da ação legível junto à seta.",
+      "Do usar a fotografia da própria igreja e preservar o assunto ao ajustar o recorte para cada tela.",
+      "Do conferir o contorno de foco em áreas claras, escuras e recortadas."
+    ],
+    "donts": [
+      "Don't aplicar sombra às placas ou aos blocos de informação.",
+      "Don't arredondar os painéis ou substituir os recortes de sinalização por cápsulas."
+    ]
+  }
+}
