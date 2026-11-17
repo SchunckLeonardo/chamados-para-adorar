@@ -4,6 +4,8 @@ const instagram = "https://www.instagram.com/igrejachamadosparaadorar/";
 const whatsapp = "https://wa.me/5511973151816";
 const youtube = "https://www.youtube.com/channel/UCX8hM4i6gVvgBMpi4XYXtAg";
 const message = "https://www.youtube.com/watch?v=4FbRQ9cXeLw";
+const anniversaryPost =
+  "https://www.instagram.com/igrejachamadosparaadorar/p/Dfm5Fh-vbVQ/";
 const googlePlay =
   "https://play.google.com/store/apps/details?id=br.com.inchurch.cristachamadosadorar&hl=pt_BR";
 const street = "Rua Egas dos Santos, 2";
@@ -14,6 +16,11 @@ const map =
 const services = [
   { day: "Domingo", hour: "18h", time: "18:00" },
   { day: "Quarta-feira", hour: "19h30", time: "19:30" },
+];
+
+const anniversaryServices = [
+  { day: "Sábado", date: "21", hour: "19h", time: "2026-11-21T19:00:00-03:00", speaker: "Helder Pinheiro" },
+  { day: "Domingo", date: "22", hour: "18h", time: "2026-11-22T18:00:00-03:00", speaker: "Tainá Lima" },
 ];
 
 function Arrow({ external = false }) {
@@ -37,7 +44,7 @@ export default function Home() {
         <div className="container masthead">
           <Brand />
           <nav aria-label="Navegação principal">
-            <a href="#visite">Visite</a>
+            <a href="#celebracao">Celebração</a>
             <a href="#mensagens">Mensagens</a>
             <a href="#aplicativo">Aplicativo</a>
             <a className="nav-social" href={instagram}>Instagram <Arrow external /></a>
@@ -46,22 +53,30 @@ export default function Home() {
       </header>
 
       <main id="conteudo">
-        <section className="hero" aria-labelledby="titulo">
+        <section className="hero" id="celebracao" aria-labelledby="titulo">
           <div className="container hero-contents">
+            <div className="anniversary-mark">
+              <h1 id="titulo"><span className="anniversary-number">9</span><span className="anniversary-years">anos</span></h1>
+              <p>da Igreja Chamados para Adorar</p>
+            </div>
             <div className="hero-copy">
-              <h1 id="titulo">Chamados<br />para adorar</h1>
-              <p>Uma igreja evangélica em Embu-Guaçu.<br className="hero-break" /> Venha adorar com a gente.</p>
+              <blockquote>Até aqui nos sustentou,<br /> e adiante nos guiará!</blockquote>
+              <p>Um convite para você e sua família celebrarem conosco em Embu-Guaçu.</p>
               <a className="button sign-button" href="#visite">Planeje sua visita <Arrow /></a>
+              <a className="text-link campaign-link" href={anniversaryPost}>Veja o convite da igreja <Arrow external /></a>
             </div>
           </div>
-          <div className="hero-media">
-            <img
-              src={`${media}/culto.webp`}
-              alt="Pregação na Igreja Chamados para Adorar"
-              width="960"
-              height="940"
-              fetchPriority="high"
-            />
+          <div className="container celebration-program" aria-label="Programação do aniversário, novembro de 2026">
+            {anniversaryServices.map(({ day, date, hour, time, speaker }) => (
+              <div className="celebration-day" key={date}>
+                <time className="celebration-date" dateTime={time}><span>{date}</span>novembro</time>
+                <div className="celebration-detail">
+                  <p>{day} · {hour}</p>
+                  <h2>{speaker}</h2>
+                  <p>Ministração da Palavra</p>
+                </div>
+              </div>
+            ))}
           </div>
         </section>
 
@@ -76,12 +91,12 @@ export default function Home() {
 
           <div className="section container visit">
             <div className="visit-intro">
-              <h2 id="visite-titulo">Venha nos visitar</h2>
+              <h2 id="visite-titulo">Venha celebrar com a gente</h2>
               <p>Venha para um culto de louvor, oração e ensino da Bíblia. Se tiver dúvidas antes de vir, fale com a gente.</p>
               <a className="text-link" href={whatsapp}>Fale pelo WhatsApp <Arrow external /></a>
             </div>
             <div className="visit-times">
-              <h3>Horários dos cultos</h3>
+              <h3>Cultos regulares</h3>
               <dl>
                 {services.map(({ day, hour, time }) => (
                   <div key={day}>

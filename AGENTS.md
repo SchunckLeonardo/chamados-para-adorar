@@ -7,6 +7,7 @@ Este repositório mantém a landing page da Igreja Evangélica Cristã Chamados 
 - Use Next.js com App Router e preserve a exportação estática para o GitHub Pages.
 - Aplique a skill `impeccable` em novas interfaces, alterações de design e revisões visuais. Leia `PRODUCT.md` e, quando existir, `DESIGN.md` antes de alterar a experiência.
 - Para apresentar opções de layout, use a página de decisão da Impeccable com os esquemas da própria skill, conforme a preferência do responsável pelo projeto.
+- A capa atual apresenta o aniversário de 9 anos, seguindo a divulgação oficial em vinho, creme e dourado. Use o convite da celebração como referência. O responsável pediu que sua foto fosse retirada da capa.
 - Use português do Brasil e priorize os percursos de visita, mapa, Instagram, aplicativo e mensagens. Confira esses percursos em desktop e celular antes de publicar.
 - Registre a origem e a data de conferência dos dados em `SOURCES.md`. Para horários, endereço e contatos, confira os canais oficiais da igreja ou valide com seu responsável.
 - O repositório `SchunckLeonardo/chamados-para-adorar` guarda o histórico de commits. Use `main` para publicação e tags `vMAJOR.MINOR.PATCH` para identificar versões lançadas.

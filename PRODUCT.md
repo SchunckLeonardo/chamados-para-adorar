@@ -22,6 +22,7 @@ Next.js com App Router, conforme escolhido pelo responsável pelo projeto. Expor
 - O aplicativo Android é distribuído pela inChurch. Sua ficha descreve agenda, conteúdo e pedidos de oração. [Google Play](https://play.google.com/store/apps/details?id=br.com.inchurch.cristachamadosadorar&hl=pt_BR).
 - A mensagem “Em tudo dai graças” foi gravada na igreja e publicada no canal pessoal de Leonardo Schunck Rainha. [Mensagem no YouTube](https://www.youtube.com/watch?v=4FbRQ9cXeLw).
 - O perfil oficial usa uma marca com uma chama em azul e vermelho e uma figura branca. Consulte `SOURCES.md` para as fontes.
+- A campanha de 9 anos tem celebrações em 21/11/2026 às 19h, com Helder Pinheiro, e 22/11/2026 às 18h, com Tainá Lima. A divulgação usa vinho, creme e dourado, com o tema “Até aqui nos sustentou, e adiante nos guiará!”. [Convite oficial](https://www.instagram.com/igrejachamadosparaadorar/p/Dfm5Fh-vbVQ/).
 
 ## Princípios
 
@@ -29,3 +30,4 @@ Next.js com App Router, conforme escolhido pelo responsável pelo projeto. Expor
 - Usar fontes públicas da comunidade e confirmar horários, campanhas e contatos antes de incorporá-los.
 - Dar preferência a imagens da própria igreja com origem registrada. Indicar imagens ilustrativas quando estiverem em uso.
 - Garantir navegação por teclado, contraste e leitura confortável em telas pequenas.
+- A abertura deve destacar o aniversário da igreja. O responsável pediu a substituição de sua foto na capa.
