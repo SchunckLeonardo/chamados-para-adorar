@@ -1,91 +1,91 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-17T15:39:42Z",
+  "generatedAt": "2026-11-17T15:52:38Z",
   "title": "Design System: Chamados para Adorar",
   "extensions": {
     "colorMeta": {
-      "ultramarine": {
+      "wine": {
         "role": "primary",
-        "displayName": "Ultramarino",
+        "displayName": "Vinho",
         "tonalRamp": [
-          "oklch(15% 0.148 265.5)",
-          "oklch(26% 0.148 265.5)",
-          "oklch(38% 0.148 265.5)",
-          "oklch(49% 0.148 265.5)",
-          "oklch(60% 0.148 265.5)",
-          "oklch(72% 0.148 265.5)",
-          "oklch(84% 0.148 265.5)",
-          "oklch(95% 0.148 265.5)"
+          "oklch(15% 0.113 18.4)",
+          "oklch(26% 0.113 18.4)",
+          "oklch(38% 0.113 18.4)",
+          "oklch(49% 0.113 18.4)",
+          "oklch(60% 0.113 18.4)",
+          "oklch(72% 0.113 18.4)",
+          "oklch(84% 0.113 18.4)",
+          "oklch(95% 0.113 18.4)"
         ]
       },
-      "sky-panel": {
+      "wine-dark": {
+        "role": "primary",
+        "displayName": "Vinho profundo",
+        "tonalRamp": [
+          "oklch(15% 0.088 16.5)",
+          "oklch(26% 0.088 16.5)",
+          "oklch(38% 0.088 16.5)",
+          "oklch(49% 0.088 16.5)",
+          "oklch(60% 0.088 16.5)",
+          "oklch(72% 0.088 16.5)",
+          "oklch(84% 0.088 16.5)",
+          "oklch(95% 0.088 16.5)"
+        ]
+      },
+      "gold": {
         "role": "secondary",
-        "displayName": "Azul de sinalização",
+        "displayName": "Dourado",
         "tonalRamp": [
-          "oklch(15% 0.035 266.0)",
-          "oklch(26% 0.035 266.0)",
-          "oklch(38% 0.035 266.0)",
-          "oklch(49% 0.035 266.0)",
-          "oklch(60% 0.035 266.0)",
-          "oklch(72% 0.035 266.0)",
-          "oklch(84% 0.035 266.0)",
-          "oklch(95% 0.035 266.0)"
+          "oklch(15% 0.089 80.4)",
+          "oklch(26% 0.089 80.4)",
+          "oklch(38% 0.089 80.4)",
+          "oklch(49% 0.089 80.4)",
+          "oklch(60% 0.089 80.4)",
+          "oklch(72% 0.089 80.4)",
+          "oklch(84% 0.089 80.4)",
+          "oklch(95% 0.089 80.4)"
         ]
       },
-      "rose-seam": {
-        "role": "tertiary",
-        "displayName": "Rosa da junta",
+      "cream": {
+        "role": "neutral",
+        "displayName": "Creme",
         "tonalRamp": [
-          "oklch(15% 0.198 11.4)",
-          "oklch(26% 0.198 11.4)",
-          "oklch(38% 0.198 11.4)",
-          "oklch(49% 0.198 11.4)",
-          "oklch(60% 0.198 11.4)",
-          "oklch(72% 0.198 11.4)",
-          "oklch(84% 0.198 11.4)",
-          "oklch(95% 0.198 11.4)"
+          "oklch(15% 0.018 70.2)",
+          "oklch(26% 0.018 70.2)",
+          "oklch(38% 0.018 70.2)",
+          "oklch(49% 0.018 70.2)",
+          "oklch(60% 0.018 70.2)",
+          "oklch(72% 0.018 70.2)",
+          "oklch(84% 0.018 70.2)",
+          "oklch(95% 0.018 70.2)"
         ]
       },
-      "wine-hover": {
-        "role": "tertiary",
-        "displayName": "Vinho de interação",
+      "cream-panel": {
+        "role": "neutral",
+        "displayName": "Creme de painel",
         "tonalRamp": [
-          "oklch(15% 0.154 8.5)",
-          "oklch(26% 0.154 8.5)",
-          "oklch(38% 0.154 8.5)",
-          "oklch(49% 0.154 8.5)",
-          "oklch(60% 0.154 8.5)",
-          "oklch(72% 0.154 8.5)",
-          "oklch(84% 0.154 8.5)",
-          "oklch(95% 0.154 8.5)"
+          "oklch(15% 0.036 75.5)",
+          "oklch(26% 0.036 75.5)",
+          "oklch(38% 0.036 75.5)",
+          "oklch(49% 0.036 75.5)",
+          "oklch(60% 0.036 75.5)",
+          "oklch(72% 0.036 75.5)",
+          "oklch(84% 0.036 75.5)",
+          "oklch(95% 0.036 75.5)"
         ]
       },
       "ink": {
         "role": "neutral",
-        "displayName": "Tinta",
+        "displayName": "Tinta quente",
         "tonalRamp": [
-          "oklch(15% 0.075 270.6)",
-          "oklch(26% 0.075 270.6)",
-          "oklch(38% 0.075 270.6)",
-          "oklch(49% 0.075 270.6)",
-          "oklch(60% 0.075 270.6)",
-          "oklch(72% 0.075 270.6)",
-          "oklch(84% 0.075 270.6)",
-          "oklch(95% 0.075 270.6)"
-        ]
-      },
-      "warm-paper": {
-        "role": "neutral",
-        "displayName": "Papel quente",
-        "tonalRamp": [
-          "oklch(15% 0.004 91.4)",
-          "oklch(26% 0.004 91.4)",
-          "oklch(38% 0.004 91.4)",
-          "oklch(49% 0.004 91.4)",
-          "oklch(60% 0.004 91.4)",
-          "oklch(72% 0.004 91.4)",
-          "oklch(84% 0.004 91.4)",
-          "oklch(95% 0.004 91.4)"
+          "oklch(15% 0.037 16.8)",
+          "oklch(26% 0.037 16.8)",
+          "oklch(38% 0.037 16.8)",
+          "oklch(49% 0.037 16.8)",
+          "oklch(60% 0.037 16.8)",
+          "oklch(72% 0.037 16.8)",
+          "oklch(84% 0.037 16.8)",
+          "oklch(95% 0.037 16.8)"
         ]
       },
       "white": {
@@ -104,59 +104,139 @@
       },
       "line": {
         "role": "neutral",
-        "displayName": "Filete azul",
+        "displayName": "Filete de pergaminho",
         "tonalRamp": [
-          "oklch(15% 0.053 268.0)",
-          "oklch(26% 0.053 268.0)",
-          "oklch(38% 0.053 268.0)",
-          "oklch(49% 0.053 268.0)",
-          "oklch(60% 0.053 268.0)",
-          "oklch(72% 0.053 268.0)",
-          "oklch(84% 0.053 268.0)",
-          "oklch(95% 0.053 268.0)"
+          "oklch(15% 0.044 79.7)",
+          "oklch(26% 0.044 79.7)",
+          "oklch(38% 0.044 79.7)",
+          "oklch(49% 0.044 79.7)",
+          "oklch(60% 0.044 79.7)",
+          "oklch(72% 0.044 79.7)",
+          "oklch(84% 0.044 79.7)",
+          "oklch(95% 0.044 79.7)"
         ]
       }
     },
     "typographyMeta": {
-      "display": {
-        "displayName": "Abertura",
-        "purpose": "Título principal."
+      "anniversary-number": {
+        "displayName": "anniversary-number",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
-      "display-tablet": {
-        "displayName": "Abertura intermediária",
-        "purpose": "Título principal até 54rem."
+      "anniversary-number-mobile": {
+        "displayName": "anniversary-number-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
-      "display-mobile": {
-        "displayName": "Abertura empilhada",
-        "purpose": "Título principal até 42rem."
+      "anniversary-years": {
+        "displayName": "anniversary-years",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "anniversary-years-mobile": {
+        "displayName": "anniversary-years-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-quote": {
+        "displayName": "campaign-quote",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-quote-mobile": {
+        "displayName": "campaign-quote-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-identity": {
+        "displayName": "campaign-identity",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-invitation": {
+        "displayName": "campaign-invitation",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-copy-mobile": {
+        "displayName": "campaign-copy-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "campaign-link": {
+        "displayName": "campaign-link",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-month": {
+        "displayName": "program-month",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-date": {
+        "displayName": "program-date",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-speaker": {
+        "displayName": "program-speaker",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-speaker-mobile": {
+        "displayName": "program-speaker-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-time": {
+        "displayName": "program-time",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "program-role": {
+        "displayName": "program-role",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "headline": {
-        "displayName": "Título de seção",
-        "purpose": "Hierarquia principal após a abertura."
+        "displayName": "headline",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "title": {
-        "displayName": "Título interno",
-        "purpose": "Título da mensagem em destaque."
+        "displayName": "title",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "body": {
-        "displayName": "Corpo",
-        "purpose": "Texto corrido."
+        "displayName": "body",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
-      "intro": {
-        "displayName": "Introdução",
-        "purpose": "Texto de convite no painel da abertura."
+      "brand": {
+        "displayName": "brand",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "nav-label": {
-        "displayName": "Navegação",
-        "purpose": "Rótulos do cabeçalho e do rodapé."
+        "displayName": "nav-label",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "nav-label-mobile": {
+        "displayName": "nav-label-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "sign-label": {
-        "displayName": "Rótulo da placa",
-        "purpose": "Rótulo de ação nos botões em forma de placa."
+        "displayName": "sign-label",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "arrival-title": {
+        "displayName": "arrival-title",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "arrival-title-mobile": {
+        "displayName": "arrival-title-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "arrival-detail": {
+        "displayName": "arrival-detail",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "arrival-address-mobile": {
+        "displayName": "arrival-address-mobile",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "schedule-title": {
+        "displayName": "schedule-title",
+        "purpose": "Escala observada na campanha e nas informações da página."
+      },
+      "schedule-day": {
+        "displayName": "schedule-day",
+        "purpose": "Escala observada na campanha e nas informações da página."
       },
       "hours": {
-        "displayName": "Horários",
-        "purpose": "Números tabulares no quadro de cultos."
+        "displayName": "hours",
+        "purpose": "Escala observada na campanha e nas informações da página."
       }
     },
     "motion": [
@@ -188,12 +268,20 @@
   },
   "components": [
     {
+      "name": "Botão do convite",
+      "kind": "button",
+      "refersTo": "campaign-button",
+      "description": "Ação vinho sobre o creme da abertura.",
+      "html": "<div class=\"ds-sign-backdrop\"><a href=\"#visite\" class=\"ds-sign-button\">Planeje sua visita <svg class=\"ds-arrow\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div>",
+      "css": ".ds-sign-backdrop { background: var(--cream, #fbf1e6); padding: 1rem; } .ds-sign-button { display: inline-flex; position: relative; isolation: isolate; align-items: center; gap: 1.1rem; min-height: 3.6rem; box-sizing: border-box; padding: .55rem 2.3rem .55rem 1.5rem; color: var(--cream, #fbf1e6); font: 700 clamp(1.25rem, 2vw, 1.85rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); text-decoration: none; } .ds-sign-button::before { content: \"\"; position: absolute; inset: 0; z-index: -1; background: var(--wine, #76252d); clip-path: polygon(0 0, calc(100% - 1rem) 0, 100% 50%, calc(100% - 1rem) 100%, 0 100%); transition: background-color .18s ease; } .ds-sign-button:hover::before { background-color: var(--wine-dark, #50151d); } .ds-sign-button:focus-visible { outline: 3px solid var(--wine, #76252d); outline-offset: 5px; } @media (prefers-reduced-motion: reduce) { .ds-sign-button::before { transition-duration: 0s; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+    },
+    {
       "name": "Botão em forma de placa",
       "kind": "button",
       "refersTo": "sign-button",
-      "description": "Ação principal sobre o ultramarino.",
-      "html": "<div class=\"ds-sign-backdrop\"><a href=\"#visite\" class=\"ds-sign-button\">Planeje sua visita <svg class=\"ds-arrow\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div>",
-      "css": ".ds-sign-backdrop { background: var(--blue, #081d73); padding: 1rem; } .ds-sign-button { display: inline-flex; position: relative; isolation: isolate; align-items: center; gap: 1.1rem; min-height: 3.6rem; box-sizing: border-box; padding: .55rem 2.3rem .55rem 1.5rem; color: var(--blue, #081d73); font: 700 clamp(1.25rem, 2vw, 1.85rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); text-decoration: none; } .ds-sign-button::before { content: \"\"; position: absolute; inset: 0; z-index: -1; background: var(--white, #fff); clip-path: polygon(0 0, calc(100% - 1rem) 0, 100% 50%, calc(100% - 1rem) 100%, 0 100%); transition: background-color .18s ease; } .ds-sign-button:hover::before { background-color: var(--light-blue, #dce7ff); } .ds-sign-button:focus-visible { outline: 3px solid var(--light-blue, #dce7ff); outline-offset: 5px; } @media (prefers-reduced-motion: reduce) { .ds-sign-button::before { transition-duration: 0s; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+      "description": "Ação branca em forma de placa sobre o painel vinho.",
+      "html": "<div class=\"ds-sign-backdrop\"><a href=\"#visite\" class=\"ds-sign-button\">Baixar na Google Play <svg class=\"ds-arrow\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div>",
+      "css": ".ds-sign-backdrop { background: var(--wine, #76252d); padding: 1rem; } .ds-sign-button { display: inline-flex; position: relative; isolation: isolate; align-items: center; gap: 1.1rem; min-height: 3.6rem; box-sizing: border-box; padding: .55rem 2.3rem .55rem 1.5rem; color: var(--wine, #76252d); font: 700 clamp(1.25rem, 2vw, 1.85rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); text-decoration: none; } .ds-sign-button::before { content: \"\"; position: absolute; inset: 0; z-index: -1; background: var(--white, #fff); clip-path: polygon(0 0, calc(100% - 1rem) 0, 100% 50%, calc(100% - 1rem) 100%, 0 100%); transition: background-color .18s ease; } .ds-sign-button:hover::before { background-color: var(--cream-panel, #f3e2cb); } .ds-sign-button:focus-visible { outline: 3px solid var(--cream-panel, #f3e2cb); outline-offset: 5px; } @media (prefers-reduced-motion: reduce) { .ds-sign-button::before { transition-duration: 0s; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
     },
     {
       "name": "Link de texto",
@@ -201,15 +289,15 @@
       "refersTo": "text-link",
       "description": "Ação de apoio sublinhada, com seta quando o destino é externo.",
       "html": "<a href=\"#mensagens\" class=\"ds-text-link\">Canal da igreja no YouTube <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a>",
-      "css": ".ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--blue, #081d73); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: #8c143c; } .ds-text-link:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+      "css": ".ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--wine, #76252d); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: var(--wine-dark, #50151d); } .ds-text-link:focus-visible { outline: 3px solid var(--wine, #76252d); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
     },
     {
       "name": "Navegação principal",
       "kind": "nav",
       "refersTo": "navigation",
       "description": "Acesso às seções e indicação do Instagram como destino externo.",
-      "html": "<nav class=\"ds-nav\" aria-label=\"Navegação principal\"><a href=\"#visite\">Visite</a><a href=\"#mensagens\">Mensagens</a><a href=\"#aplicativo\">Aplicativo</a><a class=\"ds-social\" href=\"#instagram\">Instagram <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></nav>",
-      "css": ".ds-nav { display: flex; align-items: center; gap: clamp(1rem, 2.6vw, 2.75rem); padding-inline: .5rem; background: var(--white, #fff); color: var(--ink, #10183f); font-family: var(--body, Barlow, system-ui, sans-serif); } .ds-nav a { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .45rem; color: inherit; font-size: 1.02rem; font-weight: 700; text-decoration: none; } .ds-nav a:hover { text-decoration: underline; text-underline-offset: .23em; } .ds-nav a:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; } .ds-nav .ds-social { color: var(--blue, #081d73); } @media (max-width: 42rem) { .ds-nav { justify-content: space-between; gap: .4rem; } .ds-nav a { font-size: .93rem; } } @media (max-width: 21rem) { .ds-social .ds-arrow { display: none; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navegação principal\"><a href=\"#celebracao\">Celebração</a><a href=\"#mensagens\">Mensagens</a><a href=\"#aplicativo\">Aplicativo</a><a class=\"ds-social\" href=\"#instagram\">Instagram <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></nav>",
+      "css": ".ds-nav { display: flex; align-items: center; gap: clamp(1rem, 2.6vw, 2.75rem); padding-inline: .5rem; background: var(--cream, #fbf1e6); color: var(--ink, #3c2425); font-family: var(--body, Barlow, system-ui, sans-serif); } .ds-nav a { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .45rem; color: inherit; font-size: 1.02rem; font-weight: 700; text-decoration: none; } .ds-nav a:hover { text-decoration: underline; text-underline-offset: .23em; } .ds-nav a:focus-visible { outline: 3px solid var(--wine, #76252d); outline-offset: 5px; } .ds-nav .ds-social { color: var(--wine, #76252d); } @media (max-width: 42rem) { .ds-nav { justify-content: space-between; gap: .3rem; flex-wrap: wrap; } .ds-nav a { font-size: .93rem; } } @media (max-width: 21rem) { .ds-social .ds-arrow { display: none; } }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
     },
     {
       "name": "Placa de endereço",
@@ -217,34 +305,42 @@
       "refersTo": "arrival-sign",
       "description": "Une a chamada de chegada, o endereço e o link do mapa.",
       "html": "<div class=\"ds-arrival-wrap\"><div class=\"ds-arrival\"><strong>Como chegar</strong><p>Rua Egas dos Santos, 2<span>Jardim São Paulo · Embu-Guaçu, SP</span></p><a href=\"#visite\" class=\"ds-text-link\">Abrir no mapa <svg class=\"ds-arrow ds-arrow-external\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M3 12h17m-7-7 7 7-7 7\"/></svg></a></div></div>",
-      "css": ".ds-arrival-wrap { container-type: inline-size; } .ds-arrival { display: grid; grid-template-columns: minmax(9rem, .7fr) minmax(15rem, 1.75fr) minmax(10rem, .75fr); align-items: center; gap: clamp(1rem, 3vw, 2.4rem); min-height: 5.75rem; box-sizing: border-box; padding: 1rem clamp(1.15rem, 4vw, 3.2rem); background: var(--light-blue, #dce7ff); color: var(--ink, #10183f); clip-path: polygon(0 0, calc(100% - 1.25rem) 0, 100% 50%, calc(100% - 1.25rem) 100%, 0 100%); } .ds-arrival strong { font: 800 clamp(1.55rem, 2.8vw, 2.55rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); } .ds-arrival p { display: grid; margin: 0; padding-inline: clamp(1rem, 2.5vw, 2.4rem); border-inline: 1px solid var(--line, #a7b5d8); font: 700 clamp(1.08rem, 1.6vw, 1.38rem)/1.25 var(--body, Barlow, system-ui, sans-serif); } .ds-arrival p span { font-size: .83em; font-weight: 600; } .ds-arrival .ds-text-link { justify-self: start; } @container (max-width: 42rem) { .ds-arrival { grid-template-columns: 1fr auto; gap: .15rem 1rem; clip-path: none; padding: .9rem var(--side, clamp(1.25rem, 6.5vw, 7rem)); } .ds-arrival strong { grid-column: 1 / -1; font-size: 1.65rem; } .ds-arrival p { padding: 0; border: 0; font-size: 1rem; } .ds-arrival .ds-text-link { white-space: nowrap; } } @container (max-width: 21rem) { .ds-arrival { grid-template-columns: 1fr; } }  .ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--blue, #081d73); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: #8c143c; } .ds-text-link:focus-visible { outline: 3px solid var(--rose, #c51f50); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } }"
+      "css": ".ds-arrival-wrap { container-type: inline-size; } .ds-arrival { display: grid; grid-template-columns: minmax(9rem, .7fr) minmax(15rem, 1.75fr) minmax(10rem, .75fr); align-items: center; gap: clamp(1rem, 3vw, 2.4rem); min-height: 5.75rem; box-sizing: border-box; padding: 1rem clamp(1.15rem, 4vw, 3.2rem); background: var(--wine, #76252d); color: var(--cream, #fbf1e6); } .ds-arrival strong { font: 800 clamp(1.55rem, 2.8vw, 2.55rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); } .ds-arrival p { display: grid; margin: 0; padding-inline: clamp(1rem, 2.5vw, 2.4rem); border-inline: 1px solid var(--line, #d9c7aa); font: 700 clamp(1.08rem, 1.6vw, 1.38rem)/1.25 var(--body, Barlow, system-ui, sans-serif); } .ds-arrival p span { font-size: .83em; font-weight: 600; } .ds-arrival .ds-text-link { justify-self: start; } @container (max-width: 42rem) { .ds-arrival { grid-template-columns: 1fr auto; gap: .15rem 1rem; clip-path: none; padding: .9rem var(--side, clamp(1.25rem, 6.5vw, 7rem)); } .ds-arrival strong { grid-column: 1 / -1; font-size: 1.65rem; } .ds-arrival p { padding: 0; border: 0; font-size: 1rem; } .ds-arrival .ds-text-link { white-space: nowrap; } } @container (max-width: 21rem) { .ds-arrival { grid-template-columns: 1fr; } }  .ds-text-link { display: inline-flex; align-items: center; min-height: 2.75rem; gap: .55rem; color: var(--wine, #76252d); font-family: var(--body, Barlow, system-ui, sans-serif); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .24em; } .ds-text-link:hover { color: var(--wine-dark, #50151d); } .ds-text-link:focus-visible { outline: 3px solid var(--wine, #76252d); outline-offset: 5px; }  .ds-arrow { display: block; flex: none; width: .83em; height: .83em; transition: transform .22s cubic-bezier(.16, 1, .3, 1); } .ds-arrow-external { rotate: -45deg; } a:hover > .ds-arrow { transform: translateX(.22em); } @media (prefers-reduced-motion: reduce) { .ds-arrow { transition-duration: 0s; } } .ds-arrival .ds-text-link { color: var(--cream, #fbf1e6); } .ds-arrival .ds-text-link:hover { color: var(--white, #fff); } .ds-arrival .ds-text-link:focus-visible { outline-color: var(--cream, #fbf1e6); }"
     },
     {
       "name": "Quadro de cultos",
       "kind": "custom",
       "refersTo": "schedule-hours",
       "description": "Dia e horário alinhados nas extremidades de cada linha.",
-      "html": "<div class=\"ds-schedule\"><h3>Horários dos cultos</h3><dl><div><dt>Domingo</dt><dd><time datetime=\"18:00\">18h</time></dd></div><div><dt>Quarta-feira</dt><dd><time datetime=\"19:30\">19h30</time></dd></div></dl></div>",
-      "css": ".ds-schedule { border-top: 3px solid var(--blue, #081d73); padding-top: .7rem; color: var(--ink, #10183f); } .ds-schedule h3 { margin: 0 0 .6rem; font: 700 1.5rem/.99 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); letter-spacing: -.025em; } .ds-schedule dl { margin: 0; } .ds-schedule dl > div { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .65rem 0 .8rem; border-bottom: 1px solid var(--line, #a7b5d8); } .ds-schedule dt { font: 600 clamp(1.15rem, 2vw, 1.65rem) var(--body, Barlow, system-ui, sans-serif); } .ds-schedule dd { margin: 0; font: 800 clamp(2.45rem, 4.8vw, 4rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); color: var(--blue, #081d73); font-variant-numeric: tabular-nums; }"
+      "html": "<div class=\"ds-schedule\"><h3>Cultos regulares</h3><dl><div><dt>Domingo</dt><dd><time datetime=\"18:00\">18h</time></dd></div><div><dt>Quarta-feira</dt><dd><time datetime=\"19:30\">19h30</time></dd></div></dl></div>",
+      "css": ".ds-schedule { border-top: 3px solid var(--wine, #76252d); padding-top: .7rem; color: var(--ink, #3c2425); } .ds-schedule h3 { margin: 0 0 .6rem; font: 700 1.5rem/.99 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); letter-spacing: -.025em; } .ds-schedule dl { margin: 0; } .ds-schedule dl > div { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .65rem 0 .8rem; border-bottom: 1px solid var(--line, #d9c7aa); } .ds-schedule dt { font: 600 clamp(1.15rem, 2vw, 1.65rem) var(--body, Barlow, system-ui, sans-serif); } .ds-schedule dd { margin: 0; font: 800 clamp(2.45rem, 4.8vw, 4rem)/1 var(--display, \"Barlow Condensed\", \"Arial Narrow\", sans-serif); color: var(--wine, #76252d); font-variant-numeric: tabular-nums; }"
+    },
+    {
+      "name": "Marco de aniversário",
+      "kind": "custom",
+      "refersTo": "anniversary-mark",
+      "description": "Numeral e palavra alinhados na base, em serifa cerimonial.",
+      "html": "<div class=\"ds-mark\"><h1><span class=\"ds-number\">9</span><span class=\"ds-years\">anos</span></h1><p>da Igreja Chamados para Adorar</p></div>",
+      "css": ".ds-mark { text-align: center; color: var(--wine, #76252d); background: var(--cream, #fbf1e6); } .ds-mark h1 { display: flex; align-items: baseline; justify-content: center; gap: .15em; margin: 0; font: 400 1rem/1 var(--ceremony, Baskervville, Georgia, serif); letter-spacing: -.035em; } .ds-number { font-size: clamp(12rem, 23vw, 23rem); } .ds-years { font-size: clamp(3.75rem, 7vw, 7rem); } .ds-mark p { margin: 1.45rem 0 0; padding-top: 1rem; border-top: 1px solid var(--gold, #aa884c); font: 400 clamp(1.05rem, 1.7vw, 1.4rem)/1.45 var(--body, Barlow, system-ui, sans-serif); color: var(--ink, #3c2425); } @media (max-width: 42rem) { .ds-number { font-size: clamp(10rem, 48vw, 17rem); } .ds-years { font-size: clamp(3.25rem, 15vw, 5.5rem); } .ds-mark p { margin-top: 1rem; font-size: 1.05rem; padding-top: .8rem; } }"
     }
   ],
   "narrative": {
-    "northStar": "Placa de chegada",
-    "overview": "A página usa a linguagem de uma placa para acolher quem chega: texto grande, setas com destinos claros e faixas de cor que organizam a leitura. A fotografia da própria igreja dá rosto ao convite.\n\nO ultramarino emoldura os blocos de maior destaque. O papel quente, o branco e os filetes finos deixam as informações práticas respirarem. A diagonal rosa une cor e fotografia.",
+    "northStar": "Convite de celebração",
+    "overview": "A linguagem da campanha oficial de aniversário combina vinho, creme e dourado com serifas de convite. O marco de aniversário e o tema em itálico conduzem a abertura, sem fotografia de capa. Barlow e Barlow Condensed mantêm a clareza das informações práticas e das ações.\n\nO sistema é plano e acolhedor, com filetes finos e faixas diagonais. A tipografia cerimonial dá presença ao convite; o ritmo simples das seções mantém os canais da igreja acessíveis.",
     "keyCharacteristics": [
-      "Títulos condensados, fortes e curtos.",
-      "Painéis planos e recortes com função de sinalização.",
-      "Fotografia da própria igreja com origem registrada em SOURCES.md."
+      "Serifas cerimoniais para o marco, o tema e os nomes da programação.",
+      "Vinho sobre creme, com dourado reservado aos filetes e às bordas das faixas.",
+      "Placas de ação e informações práticas em tipografia sem serifa."
     ],
     "rules": [],
     "dos": [
-      "Do manter o rótulo da ação legível junto à seta.",
-      "Do usar a fotografia da própria igreja e preservar o assunto ao ajustar o recorte para cada tela.",
-      "Do conferir o contorno de foco em áreas claras, escuras e recortadas."
+      "Do manter as três famílias nos seus papéis: cerimônia, leitura e sinalização.",
+      "Do preservar o contraste do vinho com as superfícies claras e os contornos de foco.",
+      "Do manter data, horário e nome próximos em cada encontro da programação."
     ],
     "donts": [
-      "Don't aplicar sombra às placas ou aos blocos de informação.",
-      "Don't arredondar os painéis ou substituir os recortes de sinalização por cápsulas."
+      "Don't aplicar sombras às placas, faixas ou blocos de informação.",
+      "Don't usar o dourado para textos funcionais."
     ]
   }
 }
